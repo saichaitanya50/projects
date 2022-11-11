@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @saichaitanya50
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @saichaitanya
+- 👀 I’m interested in Data Science and Analytics
+- 🌱 I’m currently exploring ML and AI
+- 💞️ I’m looking to collaborate on Data science related projects
+- 📫 You can reach me on chatni.chatni50@gmail.com
 
 <!---
 saichaitanya50/saichaitanya50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
