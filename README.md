@@ -3,7 +3,7 @@ This is Sai Chaitanya Dhanisetty!
 
 Machine Learning Enthusiast | Python Developer | Data Visualization 
 
-I am currently a graduate student from India, pursuing Data Science and Applications at Sate University of Newyork at Buffalo. Shifted my whole life across the seas from India to America.
+I am currently a graduate student from India, pursuing Data Science and Applications at State University of NewYork at Buffalo. Shifted my whole life across the seas from India to America.
 
 🔭 I’m currently working on Machine learning based project
 
